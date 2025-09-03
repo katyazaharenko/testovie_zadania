@@ -1,2 +1,3 @@
 *.csv
 *.db
+*-checkpoint.ipynb
